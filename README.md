@@ -1,3 +1,3 @@
 #git1
 
-Example project for learning git and github
+Example project for learning git and github.
